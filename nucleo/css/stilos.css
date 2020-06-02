@@ -1,0 +1,46 @@
+#instituto{
+    font-size: 2em;
+}
+
+#crear_qr{
+    padding: 0px 70px;
+}
+
+#refrescar_pagina{
+    padding: 0px 70px; 
+}
+
+#mostrar_QR{
+    width: 100%;
+}
+
+#biblioteca{
+    width: 100%;
+}
+
+.btn, .btn-large, .btn-small {
+    background-color: #022348;
+}
+
+input:not([type]):focus:not([readonly]), input[type=text]:not(.browser-default):focus:not([readonly]), input[type=password]:not(.browser-default):focus:not([readonly]), input[type=email]:not(.browser-default):focus:not([readonly]), input[type=url]:not(.browser-default):focus:not([readonly]), input[type=time]:not(.browser-default):focus:not([readonly]), input[type=date]:not(.browser-default):focus:not([readonly]), input[type=datetime]:not(.browser-default):focus:not([readonly]), input[type=datetime-local]:not(.browser-default):focus:not([readonly]), input[type=tel]:not(.browser-default):focus:not([readonly]), input[type=number]:not(.browser-default):focus:not([readonly]), input[type=search]:not(.browser-default):focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #091bf3;
+    -webkit-box-shadow: 0 1px 0 0 #091bf3;
+    box-shadow: 0 1px 0 0 #091bf3;
+}
+
+.input-field .prefix.active{
+    color: #091bf3;  /*26a69a*/
+}
+
+.centrar{
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+@media only screen and (max-width: 600px){
+    .centrar{
+        width: 87%;
+    }  
+}
+

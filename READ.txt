@@ -1,0 +1,12 @@
+Este proyecto hace uso de la tecnologia de QR con el lenguaje de PHP como servidor y javascritp como 
+lenguaje del cliente, y se uso para el desarrollo de un generador de QR con datos en espesifico, para 
+que un estudiante pueda solicitar un libro prestado al bibliotecario con el codigo QR y no con hoja y 
+esfero como se hace en la actualidad de desarrolla esta solucion que proporciona tambien una base de 
+datos para saber que tipo de estudiantes estan generando los QR y que libros consulta, pero la v1 solo 
+tiene la recoleccion de datos en una DB mas la generacion del QR.
+
+Para futuras versiones se podria implementar una interfas para un administrador inesperto que pueda ver 
+las consultas que se an hecho. 
+
+El proyecto se deja manipular para cresimiento ya que tiene una buena arquitectura donde se puede entender
+que se hace y poder seguir ampliando el proyecto agregandole tambien nuebos modulos si se requiere.

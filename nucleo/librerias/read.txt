@@ -1,0 +1,8 @@
+/**
+ * Las librerias usadas de manera local han sido las siguientes: Materialize CSS, jQuery.
+ *
+ * @author     Edwin Velasquez <lion_3214@hotmail.com>
+ * @author     Diego Rodríguez Veloza <rodvel2910@icloud.com>
+ * @copyright  2018 Grupo Tecnológico
+ * @link       http://www.bitdefender.net.co
+ */
